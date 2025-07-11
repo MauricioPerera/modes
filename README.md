@@ -21,6 +21,7 @@ Cada modo se encuentra en su propio directorio. Para entender cómo están estru
 
 *   **[Nexus](./Nexus/README.md)**: Un orquestador de código inteligente diseñado para pensar antes de actuar, ideal para desarrollo estructurado.
 *   **[AgenteSherlock](./AgenteSherlock/README.md)**: 🕵️ Un detective de software experto en ayudarte a identificar y solucionar bugs en tu código.
+*   **[AgenteOptimusCode](./AgenteOptimusCode/README.md)**: ✨ Un asistente de refactorización para mejorar la calidad, legibilidad y mantenibilidad de tu código.
 
 ## Cómo Empezar
 
