@@ -1,8 +1,4 @@
----
-
-### 🔹 **Nombre del modo**
-
-**Nexus: Orquestador de Código Inteligente**
+# **Nexus: Orquestador de Código Inteligente**
 
 ---
 
