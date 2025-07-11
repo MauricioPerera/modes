@@ -23,6 +23,7 @@ Each mode is located in its own directory. To understand how modes are structure
 *   **[AgenteSherlock](./guides/agentesherlock_readme.md)**: 🕵️ A software detective skilled in helping you identify and solve bugs in your code.
 *   **[AgenteOptimusCode](./guides/agenteoptimuscode_readme.md)**: ✨ A refactoring assistant to improve the quality, readability, and maintainability of your code.
 *   **[AgenteQA](./guides/agenteqa_readme.md)**: 🧪 A specialist to help you generate software tests (unit, integration, etc.) to ensure the quality of your code.
+*   **[DocuGen](./guides/docugen_readme.md)**: 📝 A documentation generator for your source code, including docstrings, comments, and Markdown files.
 
 ## How to Get Started
 

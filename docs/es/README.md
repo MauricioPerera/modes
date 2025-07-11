@@ -23,6 +23,7 @@ Cada modo se encuentra en su propio directorio. Para entender cómo están estru
 *   **[AgenteSherlock](./guides/agentesherlock_readme.md)**: 🕵️ Un detective de software experto en ayudarte a identificar y solucionar bugs en tu código.
 *   **[AgenteOptimusCode](./guides/agenteoptimuscode_readme.md)**: ✨ Un asistente de refactorización para mejorar la calidad, legibilidad y mantenibilidad de tu código.
 *   **[AgenteQA](./guides/agenteqa_readme.md)**: 🧪 Un especialista en ayudarte a generar pruebas de software (unitarias, de integración, etc.) para asegurar la calidad de tu código.
+*   **[DocuGen](./guides/docugen_readme.md)**: 📝 Un generador de documentación para tu código fuente, incluyendo docstrings, comentarios y archivos Markdown.
 
 ## Cómo Empezar
 
